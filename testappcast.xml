@@ -6,7 +6,7 @@
             <title>Version 108</title>
             <description>desc</description>
             <pubDate>Fri, 22 Nov 2019 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.sse.seller_app" sparkle:version="1.15.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.sse.seller_app" sparkle:version="108" sparkle:os="android" />
         </item>
     </channel>
 </rss>
