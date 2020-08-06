@@ -3,10 +3,10 @@
     <channel>
         <title>Mytr Seller App - Appcast</title>
         <item>
-            <title>Version 116</title>
+            <title>Version 117</title>
             <description>desc</description>
             <pubDate>Thurs, 30 July 2020 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.sse.seller_app" sparkle:version="116" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.sse.seller_app" sparkle:version="117" sparkle:os="android" />
         </item>
     </channel>
 </rss>
